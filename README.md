@@ -1,2 +1,3 @@
-# laboratorio-1-optica-y-ondas
-Datos, análisis y resultados del Laboratorio 1 de Óptica y Ondas.
+# Laboratorio 1 – Óptica y Ondas
+
+Análisis armónico en el sistema biela-manivela
